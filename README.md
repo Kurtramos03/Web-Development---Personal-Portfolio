@@ -15,30 +15,6 @@ The purpose of this portfolio is to:
 * Accessible: Focused on contrast, keyboard navigation, and screen reader compatibility.
 * Fast: Optimized for performance with lightweight code and image assets.
 
-# 📁 File & Folder Structure
-bash
-Copy
-Edit
-portfolio/
-│
-├── index.html              # Homepage and main content
-├── about.html              # (Optional) Dedicated About Me page
-├── projects.html           # (Optional) Projects overview
-│
-├── css/
-│   └── styles.css          # Custom styles
-│
-├── js/
-│   └── main.js             # JavaScript interactions (e.g. menu toggle, scroll effects)
-│
-├── images/
-│   └── profile.jpg         # Profile and project images
-│
-├── assets/
-│   └── resume.pdf          # Downloadable CV/resume
-│
-└── README.md               # This documentation
-
 # 🧰 Technologies Used
 * HTML5	Structure of content and semantic layout
 * CSS3	Styling and responsive design
@@ -54,7 +30,7 @@ Additional tools/libraries:
 * 🛠 Skills Section: Visual list of technical proficiencies
 * 📩 Contact Form: Basic form for reaching out (non-functional unless backed by a backend service like EmailJS or Formspree)
 * 📄 Download Resume: One-click CV download
-* 🌙 Dark/Light Theme Toggle (if implemented)
+* 🌙 Dark/Light Theme Toggle 
 * 📱 Mobile Friendly: Optimized with media queries and mobile-first design
 
 # 📸 Screenshots
